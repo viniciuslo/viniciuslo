@@ -10,6 +10,6 @@ I'm Vinicius, data analyst and engineering student.
 
 💬 Ask me about anything, I really enjoy meeting new people and chatting
 
-📫 How to contact me: <a href=“https://www.linkedin.com/in/vinicius-lima-06901bab/“>LinkedIn</a> and <a href=“https://www.instagram.com/viniciuslima_o/“>Instagram</a>
+📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/vinicius-lima-06901bab/) and [Instagram](https://www.instagram.com/viniciuslima_o/)
 
 Feel free to contact me! 👨🏽‍💻
