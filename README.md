@@ -1,14 +1,14 @@
 # Hello, everyone 👋
+I'm Vinicius, a Data Engineering Specialist passionate about turning data into valuable insights and strategic decisions.
 
-I'm Vinicius, data analyst and engineering student.
+🔭 Currently, I work in Business Intelligence at a fashion e-commerce company, where I help optimize processes and create data-driven strategies.
 
-🔭 Currently, I am working in a fashion e-commerce as a Business Intelligence Analyst, dealing with Redshift, Postgres and business data management
+🌱 I am continuously improving my skills, studying data science applied to engineering to simplify the presentation of complex information and facilitate decision-making, increasing engagement in business analysis.
 
-🌱 Currently, I am studying data science for engineering and how to simplify the presentation of data data and complex processes for business areas, generating more engagement in analysis and decision making.
+💻 In addition to my expertise in data engineering, I have a strong background in system development, which allows me to understand and bridge the gap between data and technology.
 
-⚡ Curiosity: I also have experience in systems development.
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslo&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslo&layout=compact&langs_count=10&theme=dracula&hide=jupyter%20notebook"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,8 +31,3 @@ I'm Vinicius, data analyst and engineering student.
   <a href = "mailto:vinicius.lima.oem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-lima-06901bab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-  ##
-  
-![Snake animation](https://github.com/viniciuslo/viniciuslo/blob/output/github-contribution-grid-snake.svg)
-
